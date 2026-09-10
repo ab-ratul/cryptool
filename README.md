@@ -77,7 +77,7 @@ cd cryptool
 3. Run the application:
 
 ```bash
-python crypto_tool.py
+python cryptool.py
 ```
 
 ### 💻 Usage & Shortcuts
