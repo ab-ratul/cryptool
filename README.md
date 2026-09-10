@@ -14,7 +14,7 @@ CrypTool by Ali Burhan | https://github.com/ab-ratul
 
 Built by **Ali Burhan** | [github.com/ab-ratul](https://github.com/ab-ratul)
 
-CrypTool is a Python-based command-line interface (CLI) application designed to demonstrate the fundamental mechanics of data confidentiality[cite: 1]. Developed as part of the DecodeLabs Industrial Training Kit (Project 2: Basic Encryption & Decryption), this tool transforms static text into secure ciphertext using mathematical obfuscation and actively audits its own security through automated brute-force scanning[cite: 1].
+CrypTool is a Python-based command-line interface (CLI) application designed to demonstrate the fundamental mechanics of data confidentiality. Developed as part of the DecodeLabs Industrial Training Kit (Project 2: Basic Encryption & Decryption), this tool transforms static text into secure ciphertext using mathematical obfuscation and actively audits its own security through automated brute-force scanning.
 
 ---
 
@@ -28,7 +28,7 @@ CrypTool is a Python-based command-line interface (CLI) application designed to 
 ---
 
 ## ✨ Features
-* **Caesar Cipher Engine:** Implements mono-alphabetic substitution using a user-defined integer shift key[cite: 1].
+* **Caesar Cipher Engine:** Implements mono-alphabetic substitution using a user-defined integer shift key.
 * **Vigenère Cipher Evolution:** Upgrades static defense to polyalphabetic substitution using a dynamic string keyword, mitigating standard frequency analysis attacks.
 * **Automated Vulnerability Scanner:** Simulates a penetration testing environment by brute-forcing ciphertext (Caesar) to expose the "single point of failure" in basic ciphers.
 * **Dynamic Network I/O:** Fetches a 10,000-word English dictionary directly from GitHub at runtime to perform intelligent plaintext identification.
